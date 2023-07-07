@@ -314,6 +314,7 @@ footer {
 
     .cont3 {
         display: grid;
+        transition: all 0.2s ease-out;
         width: 1200px;
     }
 
